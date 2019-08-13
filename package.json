@@ -1,0 +1,27 @@
+{
+  "name": "arkhub",
+  "title": "ARK Hub on the wallet",
+  "version": "0.0.1",
+  "description": "Use the ARK Hub directly on the wallet",
+  "main": "index.js",
+  "permissions": [
+  	"COMPONENTS",
+  	"ROUTES",
+    "MENU_ITEMS"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "ark"
+  ],
+  "contributors": [
+    "Diego Lopes <diego.lopes.2402@gmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diegoldn/arkhub-desktop-plugin/issues"
+  },
+  "homepage": "https://github.com/diegoldn/arkhub-desktop-plugin#readme"
+}
